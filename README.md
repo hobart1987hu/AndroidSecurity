@@ -1,2 +1,4 @@
 # AndroidSecurity
-android 的安全处理
+this is a library for provider android security 
+
+for the moment ,provider AES and MD5 encrypt 
